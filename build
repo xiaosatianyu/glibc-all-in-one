@@ -2,7 +2,7 @@
 cd "$(dirname "$0")"
 
 SOURCE="http://mirrors.ustc.edu.cn/gnu/libc"
-GLIBC_DIR="/glibc"
+GLIBC_DIR="/home/xiaosa/tools/myglibc"
 
 
 
